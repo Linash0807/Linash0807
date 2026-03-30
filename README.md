@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋, I'm Yashash Chandra Srinivas  
 
-<!--
-**Linash0807/Linash0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 3rd-year B.Tech CSE student passionate about Full-Stack Development, DSA, and AI-powered applications.  
+💡 I love building scalable web platforms that solve real-world problems.  
 
-Here are some ideas to get you started:
+🔹 Tech Stack:
+- MERN (MongoDB, Express, React, Node.js)
+- TypeScript, JavaScript, C++, Python  
+- REST APIs, JWT Auth, Firebase  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 What I Do:
+- Build full-stack projects with clean architecture  
+- Solve DSA problems regularly (1500+ CodeChef)  
+- Integrate AI (Gemini API) into real-world applications  
+
+🔹 Notable Projects:
+- Career Dost → AI-powered career dashboard for students  
+- Swasthkhet → AI-driven agriculture platform  
+- Voice of Her → Women safety & empowerment platform
+- Petrol Bunk Management System → Smart fuel station management system for tracking sales, inventory, and transactions with real-time monitoring
+
+🎯 Currently:
+- Improving problem-solving & system design  
+- Preparing for SDE internships  
+
+📫 Reach me: yashashchandrasrinivas2006@gmail.com  
