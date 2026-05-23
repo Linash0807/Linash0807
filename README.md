@@ -1,6 +1,6 @@
-Hi 👋, I'm Yashash Chandra Srinivas  
+Hi 👋, I'm Vanamu Yashash Chandra Srinivas  
 
-🚀 3rd-year B.Tech CSE student passionate about Full-Stack Development, DSA, and AI-powered applications.  
+🚀 4th-year B.Tech CSE student passionate about Full-Stack Development, DSA, and AI-powered applications.  
 💡 I love building scalable web platforms that solve real-world problems.  
 
 🔹 Tech Stack:
@@ -14,6 +14,7 @@ Hi 👋, I'm Yashash Chandra Srinivas
 - Integrate AI (Gemini API) into real-world applications  
 
 🔹 Notable Projects:
+- VIITCET (Team Project) → EAPCET mock portal for the students of 12th class 
 - Career Dost → AI-powered career dashboard for students  
 - Swasthkhet → AI-driven agriculture platform  
 - Voice of Her → Women safety & empowerment platform
